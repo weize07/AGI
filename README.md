@@ -17,3 +17,5 @@ optimizer selection, etc.
 applications) even with tools that visualize various aspects of their
 operation.
 * Edge cases: Deep learning is not good at dealing with edge cases.
+
+[agi-mit](https://agi.mit.edu/)
